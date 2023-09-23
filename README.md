@@ -19,7 +19,7 @@ _The denoised audio graph is shown_:\
 _The RGB image is separated into R, G, B plans_:\
 ![RGB](result/image1.png)\
 _The result after and before denoising is shown as below_:\
-![image](result/image2.png)\
+![image](result/image2.png)
 
 
 
