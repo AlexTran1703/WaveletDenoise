@@ -4,6 +4,7 @@ The project is built from ***MatLab***, including two main parts:
 - Audio denoising
 - Image denoising
 This project's purpose is to remove noise in image and audio with the application of ![wavelet multiresolution](https://www.mathworks.com/help/wavelet/ug/practical-introduction-to-multiresolution-analysis.html)
+![wavelet resolution](result/wavelet.png)
 
 #Software requirement
 **Matlab or Octave software is require**
