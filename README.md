@@ -9,16 +9,16 @@ This project's purpose is to remove noise in image and audio with the applicatio
 # Software requirement
 **Matlab or Octave software is require**
 # Results
-- ** Audio Denoise **
-After 3rd denoising the raw audio contain SNR as below:
+- **Audio Denoise**
+_After 3rd denoising the raw audio contain SNR as below_:
 ![SNR](result/audio1.png)
-The denoised audio graph is shown:
+_The denoised audio graph is shown_:
 ![audio](result/audio2.png)
 
-- ** Image Denoise **
-The RGB image is separated into R, G, B plans:
+- **Image Denoise**
+_The RGB image is separated into R, G, B plans_:
 ![RGB](result/image1.png)
-The result after and before denoising is shown as below:
+_The result after and before denoising is shown as below_:
 ![image](result/image2.png)
 
 
